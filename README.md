@@ -1,4 +1,4 @@
-# PubNub MCP Server v2
+ปรีชา จุลม่วง# PubNub MCP Server v2
 
 This repository provides a CLI-based Model Context Protocol (MCP) server that exposes [PubNub SDK documentation](https://www.pubnub.com/docs/sdks) and PubNub API resources to LLM-powered tools. This improves the LLM AI Agent's ability to understand and interact with PubNub's SDKs and APIs.
 
